@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import pytesseract as pyt 
 from tkinter.filedialog import askopenfilename
-pyt.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\winpath.exe'
+pyt.pytesseract.tesseract_cmd = 'tesseract.exe location goes here'
 
 filename = askopenfilename()
 image = cv2.imread(filename)
