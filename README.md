@@ -6,3 +6,5 @@ Boom, there's your output
 
 
 You Have to install the required modules as given in code.
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
